@@ -78,6 +78,8 @@ void binarySearch()
 
         cout << "Masukkan element yang ingiin dicari: ";
         cin >> x;
+
+        int low = 0;
     }
 
     
